@@ -9,6 +9,7 @@ import HowItWorks from '../../block/HowItWorks';
 import StorySeeds from '../../block/StorySeeds';
 import TopTrendingStories from '../../block/TopTrendingStories';
 import WhyCrossworld from '../../block/WhyCrossworld';
+import Beready from '../../block/Beready';
 
 
 class HomePage extends Component {
@@ -16,16 +17,17 @@ class HomePage extends Component {
   render(){
     return(
       <div className="homePage">
-        <h2>I am Home Page</h2>
+        {/* <h2>I am Home Page</h2> */}
         <Header />
-        <Footer />
         <Banner />
-        <FAQs />
-        <Geners />
         <HowItWorks />
-        <StorySeeds />
-        <TopTrendingStories />
         <WhyCrossworld />
+        <TopTrendingStories />
+        <StorySeeds />
+        <Geners />
+        <FAQs />
+        <Beready />
+        <Footer />
       </div>
     );
   }

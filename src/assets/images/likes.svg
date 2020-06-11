@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="17.229" viewBox="0 0 20 17.229">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:#fb7b76}
+        </style>
+    </defs>
+    <g id="prefix__Page-1" transform="translate(-.98)">
+        <g id="prefix___029---Like" data-name="029---Like" transform="translate(.98)">
+            <path id="prefix__Shape" d="M20.98 5.42c0 3.918-3.784 6.85-9.559 11.651a.7.7 0 0 1-.882 0c-1.912-1.589-3.608-2.977-5.021-4.259C2.672 10.22.98 8.039.98 5.42a5.129 5.129 0 0 1 5-5.42 6.237 6.237 0 0 1 5 2.584 6.237 6.237 0 0 1 5-2.584 4.785 4.785 0 0 1 2.12.475 5.376 5.376 0 0 1 2.88 4.945z" transform="translate(-.98)" style="fill:#ff5364"/>
+            <path id="prefix__Shape-2" d="M29.612 6.331c0 3.918-3.784 6.85-9.559 11.651a.7.7 0 0 1-.882 0c-1.913-1.589-3.608-2.982-5.021-4.259a14.041 14.041 0 0 0 3.181-1.023 16.893 16.893 0 0 0 7.188-6.675 24.515 24.515 0 0 0 2.209-4.635 5.376 5.376 0 0 1 2.884 4.941z" data-name="Shape" transform="translate(-9.612 -.911)" style="fill:#df4d60"/>
+            <path id="prefix__Shape-3" d="M13.073 3.744a.345.345 0 0 1-.065-.683A3.556 3.556 0 0 1 13.68 3a.345.345 0 1 1 0 .689 2.857 2.857 0 0 0-.541.049.364.364 0 0 1-.066.006z" class="prefix__cls-3" data-name="Shape" transform="translate(-8.68 -1.966)"/>
+            <path id="prefix__Shape-4" d="M4.321 8.94a.345.345 0 0 1-.344-.34A4.462 4.462 0 0 1 5.76 4.9a.345.345 0 0 1 .394.565A3.774 3.774 0 0 0 4.666 8.6a.345.345 0 0 1-.345.345z" class="prefix__cls-3" data-name="Shape" transform="translate(-2.943 -3.174)"/>
+        </g>
+    </g>
+</svg>
